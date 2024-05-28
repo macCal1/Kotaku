@@ -17,7 +17,7 @@
         },{
             "name" : "Alyssa Mercante",
             "position": "Senior Editor",
-            "image": "../images/AlyssaMercante.webp",
+            "image": "./images/AlyssaMercante.webp",
             "notes": [
                 {
                     "description": "Misled readers by leaving out key aspects of why Sweet Baby Inc. started the GG2 Controversy",
@@ -39,7 +39,7 @@
         },{
             "name" : "Kenneth Shepard",
             "position": "Staff Writer",
-            "image": "../images/KennethShepard.webp",
+            "image": "./images/KennethShepard.webp",
             "notes": [
                 {
                     "description": "Pushed Transgender narrative for Paper Mario TTYD",
@@ -49,7 +49,7 @@
         },{
             "name" : "David Smith",
             "position": "Managing Editor (Kotaku AU)",
-            "image": "../images/DavidSmith.webp",
+            "image": "./images/DavidSmith.webp",
             "notes": [
                 {
                     "description": "Wants to 'Hardware Ban' gamers for mean words in a lobby",
@@ -62,7 +62,7 @@
         {
             "name" : "Cecilia D'Anastasio",
             "position": "Reporter, Bloomberg News",
-            "image": "../images/CeciliaDanastasio.webp",
+            "image": "./images/CeciliaDanastasio.webp",
             "notes": [
                 {
                     "description": "Claimed hack Youtubers are stealing their jobs in journalism",
@@ -72,7 +72,7 @@
         },{
             "name" : "Levi Winslow",
             "position": "Former Staff Writer at Kotaku",
-            "image": "../images/LeviWinslow.webp",
+            "image": "./images/LeviWinslow.webp",
             "notes": [
                 {
                     "description": "Defended Alyssa Mercante's 'All Men Are Enemies' Tattoo",
@@ -82,7 +82,7 @@
         },{
             "name" : "Luke Plunkett",
             "position": "Writer, Aftermath",
-            "image": "../images/LukePlunkett.webp",
+            "image": "./images/LukePlunkett.webp",
             "notes": [
                 {
                     "description": "Tweeted death threats to Japanese people after Nintendo bans Kotaku from review copies",
@@ -95,7 +95,7 @@
         },{
             "name" : "Gita Jackson",
             "position": "Cofounder, Aftermath",
-            "image": "../images/GitaJackson.webp",
+            "image": "./images/GitaJackson.webp",
             "notes": [
                 {
                     "description": "Tweeted 'If someone makes a goofy YouTube video about me, you bet I'm emailing his wife—that's a promise.'",
@@ -108,7 +108,7 @@
         {
             "name" : "Jeff Grubb",
             "position": "Reporter, GamesBeat",
-            "image": "../images/JeffGrubb.webp",
+            "image": "./images/JeffGrubb.webp",
             "notes": [
                 {
                     "description": "Defended Alyssa Mercante's Racisim",
@@ -118,7 +118,7 @@
         },{
             "name" : "Anita Sarkeesian",
             "position": "Founder, Feminist Frequency",
-            "image": "../images/AnitaSarkeesian.webp",
+            "image": "./images/AnitaSarkeesian.webp",
             "notes": [
                 {
                     "description": "Founded 'Femenist Frequency' to grift government funding",
@@ -134,7 +134,7 @@
         },{
             "name" : "Jake Steinberg",
             "position": "YouTuber, Former Editor at GameXplain",
-            "image": "../images/JakeSteinberg.webp",
+            "image": "./images/JakeSteinberg.webp",
             "notes": [
                 {
                     "description": "Defended Alyssa Mercante's Racism",
@@ -144,7 +144,7 @@
         },{
             "name" : "EmmySpeens",
             "position": "OnlyFans CamGirl",
-            "image": "../images/EmmySpeens.webp",
+            "image": "./images/EmmySpeens.webp",
             "notes": [
                 {
                     "description": "Defended Alyssa Mercante in unhinged livestream rant",
@@ -154,7 +154,7 @@
         },{
             "name" : "Kim Belair",
             "position": "Founder, Sweet baby Inc.",
-            "image": "../images/KimBelair.webp",
+            "image": "./images/KimBelair.webp",
             "notes": [
                 {
                     "description": "Founded Sweet baby Inc., an organization known for injecting DEI into games and constantly championed by Kotaku",
@@ -164,7 +164,7 @@
         },{
             "name" : "Chris Kindred",
             "position": "Employee, Sweet baby Inc.",
-            "image": "../images/ChrisKindred.webp",
+            "image": "./images/ChrisKindred.webp",
             "notes": [
                 {
                     "description": "Attempted to get Kabrutus banned for creating 'Sweet Baby Inc. Detected' Steam Curator group, kicked off entire GamerGate 2 saga.",
@@ -174,7 +174,7 @@
         },{
             "name" : "Jeffrey Rousseau",
             "position": "Unemployed, Former reporter for GameIndustry.biz",
-            "image": "../images/JeffreyRousseau.webp",
+            "image": "./images/JeffreyRousseau.webp",
             "notes": [
                 {
                     "description": "Focuses on 'Marginalized Voices', amplified by Former Kotaku writer Cecilia D'Anastasio",
@@ -184,7 +184,7 @@
         },{
             "name" : "Dani Lolanders",
             "position": "Developer, Black Panther Video Game (Cliffhanger Games/EA)",
-            "image": "../images/DaniLolanders.webp",
+            "image": "./images/DaniLolanders.webp",
             "notes": [
                 {
                     "description": "States she will not hire white people because 'it's hard to work with them'",
@@ -194,7 +194,7 @@
         },{
             "name" : "Mary Kenney",
             "position": "Associate Narrative Director, Marvel's Wolverine",
-            "image": "../images/MaryKenney.webp",
+            "image": "./images/MaryKenney.webp",
             "notes": [
                 {
                     "description": "Stated 'Every Lever' Must Be Pulled To Push Disordered LGBTQ+ Agenda",
@@ -204,7 +204,7 @@
         },{
             "name" : "Ashley Cooper",
             "position": "Writer, Marvel's Iron Man (Motive/EA)",
-            "image": "../images/AshleyCooper.webp",
+            "image": "./images/AshleyCooper.webp",
             "notes": [
                 {
                     "description": "Tweeted 'Let's not cast cis white men in stuff for a year and see what happens. Just for fun.'",
@@ -217,7 +217,7 @@
         },{
             "name" : "Ash Parrish",
             "position": "Reporter, The Verge",
-            "image": "../images/AshParrish.webp",
+            "image": "./images/AshParrish.webp",
             "notes": [
                 {
                     "description": "Wrote an article for 'The Verge' blaming Gamergate return on 'a group of gamers has mobilized a harassment campaign against a story consultant company, marginalized developers, and journalists in protest of what they see as 'forced' diversity in gaming.'",
@@ -230,7 +230,7 @@
         },{
             "name" : "Maya Felix Kramer",
             "position": "Consultant, Sweet Baby Inc.",
-            "image": "../images/MayaKramer.webp",
+            "image": "./images/MayaKramer.webp",
             "notes": [
                 {
                     "description": "Has one hell of a history with Gamergate and Anita Sarkeesian - 'The Quinnspiracy'",
@@ -243,7 +243,7 @@
         },{
             "name" : "Megan Farokhmanesh",
             "position": "Senior Writer, Wired (Prev. Axios, The Verge)",
-            "image": "../images/MeganFarokhmanesh.webp",
+            "image": "./images/MeganFarokhmanesh.webp",
             "notes": [
                 {
                     "description": "Misled readers by leaving out key aspects of why Sweet Baby Inc. started the GG2 Controversy",
@@ -253,7 +253,7 @@
         },{
             "name" : "Jules Hardy",
             "position": "Presenter/Host CBBC, BAFTA",
-            "image": "../images/JulesHardy.webp",
+            "image": "./images/JulesHardy.webp",
             "notes": [
                 {
                     "description": "Tweeted 'can we a agree that for round two of 'this' it can be the final purge of these kinds of gamers?'",
@@ -263,7 +263,7 @@
         },{
             "name" : "Nick Calandra",
             "position": "Co-Founder and Editor-in-Chief, Second Wind",
-            "image": "../images/NickCalandra.webp",
+            "image": "./images/NickCalandra.webp",
             "notes": [
                 {
                     "description": "Encouraged followers to report #KotakuDetected & attempting to take it down",
