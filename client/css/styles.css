@@ -1,0 +1,16 @@
+.content {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+img {
+  width: 95%;
+}
+
+.colSpacing {
+  margin-bottom: 30px;
+}
+
+.centerRow {
+  text-align: center;
+}
